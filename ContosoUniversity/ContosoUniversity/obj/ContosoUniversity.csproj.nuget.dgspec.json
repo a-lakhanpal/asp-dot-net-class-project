@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/lakhanpals/Desktop/ANKUR/UNITEC/web application development/class project/ContosoUniversity/ContosoUniversity/ContosoUniversity.csproj": {}
+  },
+  "projects": {
+    "/Users/lakhanpals/Desktop/ANKUR/UNITEC/web application development/class project/ContosoUniversity/ContosoUniversity/ContosoUniversity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lakhanpals/Desktop/ANKUR/UNITEC/web application development/class project/ContosoUniversity/ContosoUniversity/ContosoUniversity.csproj",
+        "projectName": "ContosoUniversity",
+        "projectPath": "/Users/lakhanpals/Desktop/ANKUR/UNITEC/web application development/class project/ContosoUniversity/ContosoUniversity/ContosoUniversity.csproj",
+        "packagesPath": "/Users/lakhanpals/.nuget/packages/",
+        "outputPath": "/Users/lakhanpals/Desktop/ANKUR/UNITEC/web application development/class project/ContosoUniversity/ContosoUniversity/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/lakhanpals/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NUnit.ConsoleRunner": {
+              "target": "Package",
+              "version": "[3.10.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
